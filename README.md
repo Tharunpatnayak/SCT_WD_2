@@ -38,7 +38,6 @@ Open index.html in your preferred browser.
 stopwatch-web-app/
 
 │
-
 ├── index.html   # Main HTML file
 
 ├── style.css    # Styling
