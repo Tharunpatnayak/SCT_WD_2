@@ -43,6 +43,7 @@ stopwatch-web-app/
 └── screenshot.png # Preview image (optional)
 
 🖱 Usage Instructions
+
  i) Click Start to begin timing.
 
  ii) Click Pause to halt the timer.
