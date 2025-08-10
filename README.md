@@ -39,11 +39,8 @@ stopwatch-web-app/
 
 │
 ├── index.html   # Main HTML file
-
 ├── style.css    # Styling
-
 ├── script.js    # Stopwatch functionality
-
 └── screenshot.png # Preview image (optional)
 
 
