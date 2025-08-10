@@ -36,6 +36,7 @@ Open index.html in your preferred browser.
 
 📂 Project Structure
 stopwatch-web-app/
+
 │
 ├── index.html   # Main HTML file
 ├── style.css    # Styling
