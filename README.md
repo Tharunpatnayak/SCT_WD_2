@@ -35,9 +35,6 @@ This app lets you start, pause, reset the timer, and record lap times for accura
 Open index.html in your preferred browser.
 
 📂 Project Structure
-bash
-Copy
-Edit
 stopwatch-web-app/
 │
 ├── index.html   # Main HTML file
@@ -46,10 +43,10 @@ stopwatch-web-app/
 └── screenshot.png # Preview image (optional)
 
 🖱 Usage Instructions
-Click Start to begin timing.
+ i) Click Start to begin timing.
 
-Click Pause to halt the timer.
+ ii) Click Pause to halt the timer.
 
-Click Lap to save the current time to the lap list.
+ iii) Click Lap to save the current time to the lap list.
 
-Click Reset to clear the timer and lap records.
+ iv) Click Reset to clear the timer and lap records.
