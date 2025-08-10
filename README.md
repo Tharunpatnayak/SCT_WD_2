@@ -35,12 +35,13 @@ This app lets you start, pause, reset the timer, and record lap times for accura
 Open index.html in your preferred browser.
 
 📂 Project Structure
-<pre> ```stopwatch-web-app/
+<pre>
+stopwatch-web-app/
 │
 ├── index.html   # Main HTML file
 ├── style.css    # Styling
 ├── script.js    # Stopwatch functionality
-└── screenshot.png # Preview image (optional) ``` </pre>
+└── screenshot.png # Preview image (optional)</pre>
 
 
 🖱 Usage Instructions
