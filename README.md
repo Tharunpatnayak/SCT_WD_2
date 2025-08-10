@@ -12,7 +12,7 @@ This app lets you start, pause, reset the timer, and record lap times for accura
 - Scrollable lap list for long sessions.
 - Clean, modern, and responsive design.
 
-## 📷 Screenshot
+## 📷 Preview
 ![Stopwatch App Screenshot](screenshot.png)
 
 
